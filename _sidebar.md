@@ -1,3 +1,3 @@
-- [Read Me](first-page)
-- [Example Second Page](second-page)
-- [HowToLove?](third-page)
+- [소개](소개)
+- [1. 기본 설정](1.기본설정)
+- [2. 기초 원리](2.기초원리)
