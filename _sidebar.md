@@ -1,3 +1,3 @@
 - [Read Me](README)
 - [Example Second Page](second-page)
-- [HowToLove?](second-page)
+- [HowToLove?](third-page)
